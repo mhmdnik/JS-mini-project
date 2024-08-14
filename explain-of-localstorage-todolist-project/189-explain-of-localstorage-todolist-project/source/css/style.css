@@ -1,0 +1,24 @@
+#todoList labal{
+  width: 80%;
+  display: flex;
+  align-items: center;
+}
+#todoList li{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.completed{
+
+}
+.uncompleted label{
+  color: #afa7a7;
+  text-decoration: line-through;
+}
+#todoList .btn{
+  margin-left: 10px;
+ 
+}
+
